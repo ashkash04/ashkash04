@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ashwin!
 
-<!--
-**ashkash04/ashkash04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in:
+- Computer vision
+- Distributed systems
+- Machine learning
 
-Here are some ideas to get you started:
+## Education
+University of Western Ontario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Industry Experience
+Honda of Canada Manufacturing
+
+## Featured Projects
+- [Future project]
+- [Future project]
+- [Future project]
+
+## Technical Skills
+**Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow_, C++, Java, Bash, SQL.
+**Security & Systems:** Linux, Wireshark, Burp Suite
+**Tools:** LaTeX, Docker, Jupyter/Colab, Google Cloud Platform (GCP).
+
+## ResearchGate
+[Profile](https://www.researchgate.net/profile/Ashwin-Kashyap-2)
