@@ -16,9 +16,9 @@ Honda of Canada Manufacturing
 - wxWidgets Cross-Platform File Manager
 
 ## Technical Skills
-**Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow_, C++, Java, Bash, SQL.
-\n**Security & Systems:** Linux, Wireshark, Burp Suite
-\n**Tools:** LaTeX, Docker, Jupyter/Colab, Google Cloud Platform (GCP).
+**Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow_, C++, Java, Bash, SQL.<br>
+**Security & Systems:** Linux, Wireshark, Burp Suite<br>
+**Tools:** LaTeX, Docker, Jupyter/Colab, Google Cloud Platform (GCP).
 
 ## ResearchGate
 [Profile](https://www.researchgate.net/profile/Ashwin-Kashyap-2)
