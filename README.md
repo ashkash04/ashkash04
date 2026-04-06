@@ -16,7 +16,7 @@ Honda of Canada Manufacturing
 - wxWidgets Cross-Platform File Manager
 
 ## Technical Skills
-**Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow_, C++, Java, Bash, SQL.<br>
+**Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow, C++, Java, Bash, SQL.<br>
 **Security & Systems:** Linux, Wireshark, Burp Suite<br>
 **Tools:** LaTeX, Docker, Jupyter/Colab, Google Cloud Platform (GCP).
 
