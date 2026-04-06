@@ -17,8 +17,8 @@ Honda of Canada Manufacturing
 
 ## Technical Skills
 **Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow_, C++, Java, Bash, SQL.
-**Security & Systems:** Linux, Wireshark, Burp Suite
-**Tools:** LaTeX, Docker, Jupyter/Colab, Google Cloud Platform (GCP).
+\n**Security & Systems:** Linux, Wireshark, Burp Suite
+\n**Tools:** LaTeX, Docker, Jupyter/Colab, Google Cloud Platform (GCP).
 
 ## ResearchGate
 [Profile](https://www.researchgate.net/profile/Ashwin-Kashyap-2)
