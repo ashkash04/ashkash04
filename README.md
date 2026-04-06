@@ -12,9 +12,8 @@ University of Western Ontario
 Honda of Canada Manufacturing
 
 ## Featured Projects
-- [Future project]
-- [Future project]
-- [Future project]
+- Local Facial Expression Detection from Webcam Video
+- wxWidgets Cross-Platform File Manager
 
 ## Technical Skills
 **Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow_, C++, Java, Bash, SQL.
