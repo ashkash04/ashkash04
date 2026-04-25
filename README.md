@@ -13,7 +13,7 @@ Honda of Canada Manufacturing
 
 ## Featured Projects
 - Local Facial Expression Detection from Webcam Video
-- wxWidgets Cross-Platform File Manager
+- Distributed Task Queue (in progress)
 
 ## Technical Skills
 **Programming & ML:** Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow, C++, Java, Bash, SQL.<br>
