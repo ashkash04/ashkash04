@@ -50,3 +50,4 @@ Industry experience in a large-scale manufacturing environment.
 
 - [LinkedIn](https://www.linkedin.com/in/ashwin-kashyap-1b7564401)
 - [ResearchGate](https://www.researchgate.net/profile/Ashwin-Kashyap-2)
+- [TryHackMe](https://tryhackme.com/p/akashya6)
